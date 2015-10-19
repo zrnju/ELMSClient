@@ -1,4 +1,4 @@
-package mainui;
+package ui.mainui;
 
 public class mainFrame {
 	public mainFrame() {
