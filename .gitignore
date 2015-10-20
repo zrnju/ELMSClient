@@ -1,2 +1,13 @@
-/bin/
-/target/
+.idea/
+*.iml
+*.class
+target/
+.settings/
+.metadata/
+*.classpath
+*.project
+bc.zip
+log.txt
+*.ipr
+*.iws
+kerby-server
